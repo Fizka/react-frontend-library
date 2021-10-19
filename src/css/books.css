@@ -1,0 +1,56 @@
+.list-element {
+    margin: 10px;
+}
+
+.wrapp {
+    margin: 5px;
+    display: inline;
+    padding: 2px;
+    border: #61dafb;
+}
+
+.show {
+    display: initial;
+}
+
+.show-none {
+    display: none;
+}
+
+.page-wrapp {
+    margin: 20px;
+}
+
+.btn {
+    width: 144px;
+    height: 36px;
+    background: #282c34;
+    color: whitesmoke;
+    font-size: 22px;
+    margin: 4px;
+    border-radius: 15px;
+}
+
+.input-class {
+    width: 300px;
+    height: 32px;
+    padding: 3px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.forms-input {
+    display: block;
+    margin: 10px;
+    padding: 6px;
+}
+
+.btn-small {
+    width: 124px;
+    height: 32px;
+    background: #282c34;
+    color: whitesmoke;
+    font-size: 16px;
+    margin: 6px;
+    border-radius: 15px;
+}
